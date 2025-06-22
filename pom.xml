@@ -3,12 +3,12 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.seriouscompany.business.java.fizzbuzz</groupId>
-  <artifactId>FizzBuzzEnterpriseEdition</artifactId>
+  <artifactId>FizzBuzzOOPEdition</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>FizzBuzz Enterprise Edition</name>
-  <url>https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition</url>
+  <name>FizzBuzz OOP Edition</name>
+  <url>https://github.com/andrecasal/FizzBuzzOOPEdition</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

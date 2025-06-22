@@ -1,8 +1,8 @@
-# FizzBuzzEnterpriseEdition
+# FizzBuzzOOPEdition
 
 Enterprise software marks a special high-grade class of software that makes careful use of relevant software architecture design principles to build particularly customizable and extensible solutions to real problems.
 
-This is the FizzBuzzEnterpriseEdition - a satirical implementation of the classic FizzBuzz programming problem using enterprise software design patterns. The project demonstrates over-engineered Java architecture with extensive use of factories, strategies, adapters, and dependency injection.
+This is the FizzBuzzOOPEdition - a satirical implementation of the classic FizzBuzz programming problem using enterprise software design patterns. The project demonstrates over-engineered Java architecture with extensive use of factories, strategies, adapters, and dependency injection.
 
 ## About FizzBuzz
 
@@ -17,7 +17,7 @@ For numbers 1 through 100,
 
 ## Getting Started
 
-Welcome to the most enterprise-grade implementation of FizzBuzz ever created! This guide will help you get this sophisticated business solution up and running on your development environment.
+Welcome to the most object-oriented implementation of FizzBuzz ever created! This guide will help you get this sophisticated business solution up and running on your development environment.
 
 ### Prerequisites
 
@@ -78,8 +78,8 @@ mvn -version
 #### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition.git
-cd FizzBuzzEnterpriseEdition
+git clone https://github.com/andrecasal/FizzBuzzOOPEdition.git
+cd FizzBuzzOOPEdition
 ```
 
 #### 2. Choose Your Build Tool
@@ -199,7 +199,7 @@ This enterprise-grade solution follows sophisticated architectural patterns and 
 
 ### Still Having Issues?
 
-1. Check the [Issues page](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition/issues) for known problems
+1. Check the [Issues page](https://github.com/andrecasal/FizzBuzzOOPEdition/issues) for known problems
 2. Verify your Java and Maven/Gradle installations
 3. Ensure you have internet connectivity for dependency downloads
 
@@ -212,7 +212,7 @@ Once you have the application running:
 3. Marvel at the enterprise-grade design patterns
 4. Consider the scalability and maintainability of this solution
 
-Remember: This is not just FizzBuzz - this is **Enterprise FizzBuzz**, designed to meet the highest standards of corporate software development!
+Remember: This is not just FizzBuzz - this is **OOP FizzBuzz**, designed to showcase object-oriented programming principles taken to their logical extreme!
 
 ## Contributing
 
