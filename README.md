@@ -1,8 +1,10 @@
-# FizzBuzzOOPEdition
+# FizzBuzzObjectOrientedEdition
 
 Enterprise software marks a special high-grade class of software that makes careful use of relevant software architecture design principles to build particularly customizable and extensible solutions to real problems.
 
-This is the FizzBuzzOOPEdition - a satirical implementation of the classic FizzBuzz programming problem using enterprise software design patterns. The project demonstrates over-engineered Java architecture with extensive use of factories, strategies, adapters, and dependency injection.
+This is the FizzBuzzObjectOrientedEdition - a satirical implementation of the classic FizzBuzz programming problem using enterprise software design patterns. The project demonstrates over-engineered Java architecture with extensive use of factories, strategies, adapters, and dependency injection.
+
+This is a fork of the original [FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) repository.
 
 ## About FizzBuzz
 
@@ -78,8 +80,8 @@ mvn -version
 #### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/andrecasal/FizzBuzzOOPEdition.git
-cd FizzBuzzOOPEdition
+git clone https://github.com/andrecasal/FizzBuzzObjectOrientedEdition.git
+cd FizzBuzzObjectOrientedEdition
 ```
 
 #### 2. Choose Your Build Tool
@@ -199,7 +201,7 @@ This enterprise-grade solution follows sophisticated architectural patterns and 
 
 ### Still Having Issues?
 
-1. Check the [Issues page](https://github.com/andrecasal/FizzBuzzOOPEdition/issues) for known problems
+1. Check the [Issues page](https://github.com/andrecasal/FizzBuzzObjectOrientedEdition/issues) for known problems
 2. Verify your Java and Maven/Gradle installations
 3. Ensure you have internet connectivity for dependency downloads
 
