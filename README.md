@@ -216,6 +216,17 @@ Once you have the application running:
 
 Remember: This is not just FizzBuzz - this is **OOP FizzBuzz**, designed to showcase object-oriented programming principles taken to their logical extreme!
 
+## Comparison with Other Editions
+
+This repository is part of a programming paradigm showcase:
+
+1. **[FizzBuzzImperativeEdition](../FizzBuzzImperativeEdition)** - Simple, procedural approach with for loops and if statements
+2. **[FizzBuzzFunctionalEdition](../FizzBuzzFunctionalEdition)** - Functional programming with streams and predicates
+3. **FizzBuzzObjectOrientedEdition** (this repo) - Over-engineered enterprise OOP solution with patterns
+4. **[FizzBuzzDeclarativeEdition](../FizzBuzzDeclarativeEdition)** - Configuration-driven, rule-based approach
+
+Each demonstrates different programming paradigms and approaches to solving the same problem.
+
 ## Contributing
 
 Although this project is intended as satire, we take openness and inclusivity very seriously. To that end we have adopted the following code of conduct.
